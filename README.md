@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7FE3EA,100:9BB7F0&height=200&section=header&text=Srujana%20Addanki%20✨&fontSize=45&fontColor=ffffff&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6FE7F0,100:8FAAF5&height=200&section=header&text=Srujana%20Addanki%20✨&fontSize=45&fontColor=ffffff&fontAlignY=35)
 
 # 👋 Hey, I'm Srujana Addanki
 
