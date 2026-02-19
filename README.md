@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=200&section=header&text=Srujana%20Addanki%20✨&fontSize=45&fontColor=ffffff&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1DA1F2&height=200&section=header&text=Srujana%20Addanki%20✨&fontSize=45&fontColor=ffffff&fontAlignY=35)
 
 # 👋 Hey, I'm Srujana Addanki
 
@@ -41,11 +41,11 @@
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 
 ---
 
@@ -69,10 +69,6 @@
 
 ---
 
-
-
----
-
 ## 🎨 Fun Section  
 
 ```python
@@ -83,5 +79,3 @@ def life():
 
 life()
 ```
-<!-- Footer Banner -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:dd2476,100:ff512f&height=120&section=footer&fontSize=30&fontColor=ffffff)
