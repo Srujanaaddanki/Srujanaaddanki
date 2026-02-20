@@ -4,7 +4,7 @@
 # 👋 Hey, I'm Srujana Addanki
 
 🎓 B.Tech CSE @ Lovely Professional University (2023–2027)<br>
-🌱 Passionate about coding, data science, and building smart apps
+🌱 Passionate about coding, data science, and building smart apps<br>
 ⚡ Exploring AI, Data Analytics concepts, Data Structures & Algorithms, and core problem-solving using Java
 
 ---
