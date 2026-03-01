@@ -1,9 +1,23 @@
 <!-- Header Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1DA1F2&height=200&section=header&text=Srujana%20Addanki%20✨&fontSize=45&fontColor=ffffff&fontAlignY=35)
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Analytics+Enthusiast;Python+Developer;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?
+font=Fira+Code
+&weight=700
+&size=20
+&pause=1000
+&color=36BCF7
+&center=true
+&vCenter=true
+&width=600
+&lines=Data+Analytics+Enthusiast+📊;
+Python+Developer+🐍;
+Problem+Solver+🧠;
+Always+Learning+New+Things+🌱;
+Code+→+Impact+→+Change+💻"
+  alt="Typing SVG" />
+</p>
 
 # 👋 Hey, I'm Srujana Addanki
 
