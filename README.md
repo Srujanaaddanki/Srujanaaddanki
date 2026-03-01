@@ -11,11 +11,11 @@ font=Fira+Code
 &center=true
 &vCenter=true
 &width=600
-&lines=Data+Analytics+Enthusiast+📊;
-Python+Developer+🐍;
-Problem+Solver+🧠;
-Always+Learning+New+Things+🌱;
-Code+→+Impact+→+Change+💻"
+&lines=📊+Data+Analytics+Enthusiast;
+🐍+Python+Developer;
+🧠+Problem+Solver;
+🌱+Always+Learning+New+Things;
+💻+Code+→+Impact+→+Change"
   alt="Typing SVG" />
 </p>
 
