@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analytics+Enthusiast+📊;Python+Developer+🐍;Problem+Solver+🧠;Always+Learning+New+Things+🌱;Code+→+Impact+→+Change+💻" />
 </p>
+
 # 👋 Hey, I'm Srujana Addanki
 
 🎓 B.Tech CSE @ Lovely Professional University (2023–2027)<br>
