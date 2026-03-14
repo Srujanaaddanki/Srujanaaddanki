@@ -85,6 +85,3 @@ life()
 ```
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Srujanaaddanki/Srujanaaddanki/blob/output/github-contribution-grid-snake.svg)
