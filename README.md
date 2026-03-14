@@ -84,4 +84,6 @@ def life():
 life()
 ```
 ---
+## 🐍 Contribution Snake
 
+![snake](https://github.com/Srujanaaddanki/Srujanaaddanki/blob/output/github-contribution-grid-snake.svg)
