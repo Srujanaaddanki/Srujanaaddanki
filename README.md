@@ -92,15 +92,11 @@ life()
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srujanaaddanki&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srujanaaddanki&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Srujanaaddanki&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srujanaaddanki&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 ---
 
----
 ## 📈 Contribution Graph
 
 <p align="center">
