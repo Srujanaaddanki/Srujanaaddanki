@@ -87,3 +87,23 @@ life()
 ## 🐍 Contribution Snake
 
 ![snake](https://github.com/Srujanaaddanki/Srujanaaddanki/blob/output/github-contribution-grid-snake.svg)
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srujanaaddanki&show_icons=true&theme=tokyonight" />
+</p>
+---
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srujanaaddanki&layout=compact&theme=tokyonight" />
+</p>
+---
+---
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srujanaaddanki&theme=tokyo-night" />
+</p>
+
