@@ -91,11 +91,9 @@ life()
 ---
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srujanaaddanki&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srujanaaddanki&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Srujanaaddanki&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srujanaaddanki&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ## 📈 Contribution Graph
@@ -104,3 +102,4 @@ life()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srujanaaddanki&theme=tokyo-night" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Srujanaaddanki&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
